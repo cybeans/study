@@ -11,6 +11,8 @@ public class Study {
 		System.out.println("yoshioka");
 		System.out.println("jojo");
 		System.out.println("dio");
+		System.out.println("yoshioka1");
+		System.out.println("jojo");
 	}
 
 }
