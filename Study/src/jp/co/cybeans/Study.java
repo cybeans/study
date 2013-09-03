@@ -10,6 +10,7 @@ public class Study {
 		System.out.println("test");
 		System.out.println("yoshioka");
 		System.out.println("jojo");
+		System.out.println("dio");
 	}
 
 }
